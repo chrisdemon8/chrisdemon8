@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Chris 👋
+
+- 🌱 I’m currently learning Web developement.
+
 
 <!--
 **chrisdemon8/chrisdemon8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
