@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web developement.
 - 🇫🇷 I'm French however I speak english 🇬🇧, spanish 🇪🇸 and I've some basis in Japanese 🇯🇵.
 - 👯 I’m looking to collaborate on isometric game.
-- 📫 You can browse my résumé :  https://chrisdemon8.github.io. (coming soon)
+- 📫 You can browse my résumé :  https://chrisdemon8.github.io/christophe_cv/
 
 
 <!--
