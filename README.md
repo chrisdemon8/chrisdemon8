@@ -1,6 +1,6 @@
 ### Hi, I'm Chris 👋
 
-- 🌱 I’m currently learning Web developement.
+- 🌱 I'm currently junior Web developer at Adimeo.
 - 🇫🇷 I'm French however I speak english 🇬🇧, spanish 🇪🇸 and I've some basis in Japanese 🇯🇵.
 - 👯 I’m looking to collaborate on isometric game.
 - 📫 You can browse my résumé :  https://chrisdemon8.github.io/christophecv/
